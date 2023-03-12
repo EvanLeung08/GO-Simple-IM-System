@@ -1,5 +1,5 @@
 # Quick Start
->> This project is a simple IM system for new golang learner to study and pratice
+> This project is a simple IM system for new golang learner to study and pratice
 
 ## 1.How to setup go project
 ```go
