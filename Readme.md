@@ -27,3 +27,12 @@ go build server.go main.go user.go
     3.更改名称
     0.退出
    ```
+     -  **server side**
+   
+    ![img.png](img.png)
+   
+     - **client side**
+   
+    ![img_1.png](img_1.png)
+    ![img_2.png](img_2.png)
+    ![img_3.png](img_3.png)
